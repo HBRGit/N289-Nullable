@@ -1,0 +1,14 @@
+D:\OT\HeBR\VisualStudio2022\N289\bin\Debug\net9.0\N289.exe
+D:\OT\HeBR\VisualStudio2022\N289\bin\Debug\net9.0\N289.deps.json
+D:\OT\HeBR\VisualStudio2022\N289\bin\Debug\net9.0\N289.runtimeconfig.json
+D:\OT\HeBR\VisualStudio2022\N289\bin\Debug\net9.0\N289.dll
+D:\OT\HeBR\VisualStudio2022\N289\bin\Debug\net9.0\N289.pdb
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\N289.GeneratedMSBuildEditorConfig.editorconfig
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\N289.AssemblyInfoInputs.cache
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\N289.AssemblyInfo.cs
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\N289.csproj.CoreCompileInputs.cache
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\N289.dll
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\refint\N289.dll
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\N289.pdb
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\N289.genruntimeconfig.cache
+D:\OT\HeBR\VisualStudio2022\N289\obj\Debug\net9.0\ref\N289.dll
